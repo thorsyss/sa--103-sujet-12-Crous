@@ -10,7 +10,7 @@ Contenu du Dépôt:
         Document détaillant la description du projet, les étapes suivies, ainsi que le choix du sujet (sujet 12 - Crous).
 
     Code Python - sae15.py:
-        Fichier contenant le code source en Python (sae15.py) utilisé pour le traitement des données.
+        Fichier contenant le code source en Python (sae_105.py) utilisé pour le traitement des données.
 
     Résultats Graphiques - PDF:
         Document PDF présentant les résultats graphiques obtenus à partir du code Python. Ce fichier offre une visualisation claire des conclusions tirées du traitement des données.
